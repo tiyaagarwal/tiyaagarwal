@@ -77,8 +77,8 @@ Computer Science undergrad specializing in full-stack and AI/ML application deve
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=tiyaagarwal&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyaagarwal&layout=compact&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=tiyaagarwal&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyaagarwal&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </div>
 
 ---
