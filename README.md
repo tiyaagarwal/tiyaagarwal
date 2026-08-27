@@ -77,7 +77,7 @@ security:   [Burp Suite, Postman]
 ### 🏆 Achievements & Certifications
 
 - **AWS Certified Cloud Practitioner** (CLF-C02) — 2026
-- 200+ DSA problems solved on LeetCode · 4+ hackathons
+- 200+ DSA problems solved on LeetCode · 4+ hackathons across India
 - **Core Member**, IEEE Computer Society — led AI/ML sessions for 50+ members
 - **Public Relations Head**, VIT Dance Team
 
