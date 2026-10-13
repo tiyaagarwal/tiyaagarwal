@@ -52,7 +52,7 @@ Data-integrity validation and reporting for a large-scale ERP (TallyPrime) migra
 | 🟢 | **[RootPilot](https://github.com/tiyaagarwal/RootPilot)** | Spring Boot · React/TS · Redis · RabbitMQ · Gemini | AIOps observability platform — anomaly detection, incident tracking, and a GenAI copilot for root-cause analysis |
 | 🟢 | **[Sagevault](https://github.com/tiyaagarwal/Sagevault)** | Node/Express · MongoDB · React · LangChain · FAISS | Knowledge platform answering questions over uploaded documents via grounded RAG retrieval |
 | 🟢 | **[MockMate](https://github.com/tiyaagarwal/MockMate)** | FastAPI · React · Gemini · Vertex AI · AWS S3 | AI mock-interview platform — role-specific questions, video responses, AI-scored feedback |
-| 🟢 | **[raglean](https://github.com/tiyaagarwal/raglean)** | FastAPI · FAISS · sentence-transformers | Cost/latency proxy for RAG pipelines — 91% cost ↓, 71% latency ↓ in eval |
+| 🟢 | **[raglean](https://github.com/tiyaagarwal/raglean)** | FastAPI · scikit-learn · numpy (FAISS/sentence-transformers optional) | Cost/latency proxy for RAG pipelines — 91% cost ↓, 71% latency ↓ in eval |
 | 🟢 | **[Anemia-Sense](https://github.com/tiyaagarwal/Anemia-Sense)** | Python · scikit-learn · Flask · SHAP | Classifies anemia type from CBC panel data — 99.6% accuracy across 9 classes |
 | 🟢 | **[RepGuard](https://github.com/tiyaagarwal/RepGuard)** | ESP32 · MPU6050 · scikit-learn | Wearable gym-form corrector, on-device inference, no ML runtime |
 | 🔓 | **[notevault-vapt-assessment](https://github.com/tiyaagarwal/notevault-vapt-assessment)** | Burp Suite · Postman | Black-box VAPT — 10 findings (SQLi, XSS, IDOR), CVSS scoring, PoCs, remediated retest |
